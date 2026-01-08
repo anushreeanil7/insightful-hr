@@ -239,13 +239,13 @@ const Index = () => {
       <footer className="border-t border-border mt-12">
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-muted-foreground">
-            <p>© 2024 AttritionAI - Explainable Employee Retention System</p>
+            <p>© 2025 AttritionAI - Explainable Employee Retention System</p>
             <div className="flex items-center gap-4">
               <span className="flex items-center gap-1.5">
                 <Shield className="w-4 h-4" />
                 GDPR Compliant
               </span>
-              <span>Model Version: RF-2024.1</span>
+              <span>Model Version: RF-2025.1</span>
             </div>
           </div>
         </div>
